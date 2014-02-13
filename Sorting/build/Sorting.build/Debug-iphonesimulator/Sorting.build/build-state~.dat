@@ -1,0 +1,382 @@
+TSorting
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch.pch Sorting/Sorting-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/ViewController.o /Users/maruiduan/github/Algorithm/Sorting/Sorting/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/AppDelegate.o /Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/main.o /Users/maruiduan/github/Algorithm/Sorting/Sorting/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Sorting normal i386
+cCompileStoryboard /Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/en.lproj/InfoPlist.strings Sorting/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app /Users/maruiduan/github/Algorithm/Sorting/Sorting/Images.xcassets
+cProcessInfoPlistFile /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Info.plist /Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Info.plist
+cGenerateDSYMFile /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app.dSYM /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Sorting
+cTouch /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005281B74F0000000000000176
+t1384232783
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000526769B300000000000003B5
+t1382508979
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526769B700000000000001A0
+t1382508983
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526769B80000000000445870
+t1382508984
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526769B9000000000088C680
+t1382508985
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000526769BB0000000001DB9910
+t1382508987
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000526769D20000000000000AC9
+t1382509010
+s2761
+
+N/Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.m
+c0000000052FC392A00000000000007D0
+t1392261418
+s2000
+
+N/Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPad.storyboard
+c0000000052FC392B0000000000000644
+t1392261419
+s1604
+
+N/Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPhone.storyboard
+c0000000052FC392B0000000000000630
+t1392261419
+s1584
+
+N/Users/maruiduan/github/Algorithm/Sorting/Sorting/Images.xcassets
+c0000000052FC392B0000000000000088
+t1392261419
+s136
+
+N/Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Info.plist
+c0000000052FC392A000000000000062F
+t1392261418
+s1583
+
+N/Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Prefix.pch
+c0000000052FC392A0000000000000158
+t1392261418
+s344
+
+N/Users/maruiduan/github/Algorithm/Sorting/Sorting/ViewController.m
+c0000000052FC3FB300000000000003AB
+t1392263091
+s939
+
+N/Users/maruiduan/github/Algorithm/Sorting/Sorting/en.lproj/InfoPlist.strings
+c0000000052FC392A000000000000002D
+t1392261418
+s45
+
+N/Users/maruiduan/github/Algorithm/Sorting/Sorting/main.m
+c0000000052FC392A000000000000014A
+t1392261418
+s330
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app
+t1392263097
+s306
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app.dSYM
+t2
+s0
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Base.lproj/Main_iPad.storyboardc
+t1392263097
+s170
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Base.lproj/Main_iPhone.storyboardc
+t1392263097
+s170
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Info.plist
+t1392263097
+s1276
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/PkgInfo
+t1392263097
+s8
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Sorting
+t1392263094
+s17420
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/en.lproj/InfoPlist.strings
+t1392263094
+s42
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/AppDelegate.o
+t1392263094
+s65236
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/Sorting.LinkFileList
+c0000000052FC3FB40000000000000188
+t1392263092
+s392
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/ViewController.o
+t1392263094
+s42496
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/main.o
+t1392263094
+s3660
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/assetcatalog_dependencies.txt
+t1392263096
+s351
+
+N/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/assetcatalog_generated_info.plist
+t1392263096
+s525
+
+N/var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch.pch
+t1392263093
+s107860
+
+CBuild AST from /Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.m
+r0
+
+CBuild AST from /Users/maruiduan/github/Algorithm/Sorting/Sorting/ViewController.m
+r0
+
+CBuild AST from /Users/maruiduan/github/Algorithm/Sorting/Sorting/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6e50fb3377acb841^193d033477acb841^---0#1#1#--18"Check dependencies36"086AF182-5712-44F4-A26F-1554A814EFEB-
+
+CCompileAssetCatalog /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app /Users/maruiduan/github/Algorithm/Sorting/Sorting/Images.xcassets
+s413955894.544221
+e413955896.780963
+r1
+xCompileAssetCatalog
+x/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app
+x/Users/maruiduan/github/Algorithm/Sorting/Sorting/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/LaunchImage-700-568h@2x.png
+o/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Assets.car
+o/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"CompileAssetCatalog build/Debug-iphonesimulator/Sorting.app Sorting/Images.xcassets83"CompileAssetCatalog build/Debug-iphonesimulator/Sorting.app Sorting/Images.xcassetsba658b3677acb841^52edc73877acb841^-379"/* com.apple.actool.compilation-results *//Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/LaunchImage-700-568h@2x.png/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Assets.car/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@73"file:///Users/maruiduan/github/Algorithm/Sorting/Sorting/Images.xcassets/0000000000000000^1128"CompileAssetCatalog build/Debug-iphonesimulator/Sorting.app Sorting/Images.xcassets    cd /Users/maruiduan/github/Algorithm/Sorting    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app /Users/maruiduan/github/Algorithm/Sorting/Sorting/Images.xcassets36"7781ECDF-FE58-49A0-8557-73F993CC45EB-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CCompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/AppDelegate.o /Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413955893.992147
+e413955894.135523
+r1
+xCompileC
+xbuild/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/AppDelegate.o
+x/Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.m
+d/Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.m188"CompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/AppDelegate.o Sorting/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1211fe3577acb841^18b2223677acb841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.m0000000000000000^3564"CompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/AppDelegate.o Sorting/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maruiduan/github/Algorithm/Sorting    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/maruiduan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-generated-files.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-own-target-headers.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-all-target-headers.hmap -iquote /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-project-headers.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/DerivedSources/i386 -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/DerivedSources -F/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator -include /var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch -MMD -MT dependencies -MF /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/AppDelegate.dia -c /Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.m -o /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/AppDelegate.o36"9A2DAB02-4ACC-4E4A-BCCA-410297B2E1A8-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CCompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/ViewController.o /Users/maruiduan/github/Algorithm/Sorting/Sorting/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413955893.991928
+e413955894.135527
+r1
+xCompileC
+xbuild/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/ViewController.o
+x/Users/maruiduan/github/Algorithm/Sorting/Sorting/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maruiduan/github/Algorithm/Sorting/Sorting/ViewController.m
+d/Users/maruiduan/github/Algorithm/Sorting/Sorting/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/maruiduan/github/Algorithm/Sorting/Sorting/ViewController.m194"CompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/ViewController.o Sorting/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3605fe3577acb841^1cb5223677acb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/maruiduan/github/Algorithm/Sorting/Sorting/ViewController.m0000000000000000^3582"CompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/ViewController.o Sorting/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maruiduan/github/Algorithm/Sorting    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/maruiduan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-generated-files.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-own-target-headers.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-all-target-headers.hmap -iquote /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-project-headers.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/DerivedSources/i386 -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/DerivedSources -F/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator -include /var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch -MMD -MT dependencies -MF /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/ViewController.dia -c /Users/maruiduan/github/Algorithm/Sorting/Sorting/ViewController.m -o /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/ViewController.o36"889C5868-2C13-405F-9F80-1AD9E4D7947F-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CCompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/main.o /Users/maruiduan/github/Algorithm/Sorting/Sorting/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413955893.992329
+e413955894.132608
+r1
+xCompileC
+xbuild/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/main.o
+x/Users/maruiduan/github/Algorithm/Sorting/Sorting/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maruiduan/github/Algorithm/Sorting/Sorting/main.m
+d/Users/maruiduan/github/Algorithm/Sorting/Sorting/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/maruiduan/github/Algorithm/Sorting/Sorting/main.m174"CompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/main.o Sorting/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc11ffe3577acb841^95f3213677acb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/maruiduan/github/Algorithm/Sorting/Sorting/main.m0000000000000000^3522"CompileC build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/main.o Sorting/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maruiduan/github/Algorithm/Sorting    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/maruiduan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-generated-files.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-own-target-headers.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-all-target-headers.hmap -iquote /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-project-headers.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/DerivedSources/i386 -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/DerivedSources -F/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator -include /var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch -MMD -MT dependencies -MF /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/main.dia -c /Users/maruiduan/github/Algorithm/Sorting/Sorting/main.m -o /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/main.o36"1827178E-8E86-4C3B-A9BF-5EDE394E8721-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CCompileStoryboard /Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPad.storyboard
+s413955894.543626
+e413955897.121490
+r1
+xCompileStoryboard
+x/Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard Sorting/Base.lproj/Main_iPad.storyboard57"CompileStoryboard Sorting/Base.lproj/Main_iPad.storyboardd6388b3677acb841^6d1a1f3977acb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPad.storyboard0000000000000000^854"CompileStoryboard Sorting/Base.lproj/Main_iPad.storyboard    cd /Users/maruiduan/github/Algorithm/Sorting    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Base.lproj/Main_iPad.storyboardc /Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPad.storyboard36"054EDE93-4FC6-46F3-B002-E38FF9BB00C9-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CCompileStoryboard /Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPhone.storyboard
+s413955894.543788
+e413955897.123266
+r1
+xCompileStoryboard
+x/Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard Sorting/Base.lproj/Main_iPhone.storyboard59"CompileStoryboard Sorting/Base.lproj/Main_iPhone.storyboarda6438b3677acb841^c18e1f3977acb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPhone.storyboard0000000000000000^860"CompileStoryboard Sorting/Base.lproj/Main_iPhone.storyboard    cd /Users/maruiduan/github/Algorithm/Sorting    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Base.lproj/Main_iPhone.storyboardc /Users/maruiduan/github/Algorithm/Sorting/Sorting/Base.lproj/Main_iPhone.storyboard36"C8FE8BD2-F14C-4319-9224-7274733EFE65-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CCopyStringsFile /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/en.lproj/InfoPlist.strings Sorting/en.lproj/InfoPlist.strings
+s413955894.543910
+e413955894.550170
+r1
+xCopyStringsFile
+x/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/en.lproj/InfoPlist.strings
+xSorting/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy Sorting/en.lproj/InfoPlist.strings117"CopyStringsFile build/Debug-iphonesimulator/Sorting.app/en.lproj/InfoPlist.strings Sorting/en.lproj/InfoPlist.strings61538b3677acb841^99d88c3677acb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/maruiduan/github/Algorithm/Sorting/Sorting/en.lproj/InfoPlist.strings0000000000000000^581"CopyStringsFile build/Debug-iphonesimulator/Sorting.app/en.lproj/InfoPlist.strings Sorting/en.lproj/InfoPlist.strings    cd /Users/maruiduan/github/Algorithm/Sorting    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/en.lproj -- Sorting/en.lproj/InfoPlist.strings36"8A17D8B9-966D-445C-BAC2-37BC9C4764B2-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CGenerateDSYMFile /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app.dSYM /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Sorting
+s413955897.127709
+e413955897.161541
+r1
+xGenerateDSYMFile
+x/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app.dSYM
+x/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Sorting
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app.dSYM109"GenerateDSYMFile build/Debug-iphonesimulator/Sorting.app.dSYM build/Debug-iphonesimulator/Sorting.app/Sortingbebc203977acb841^9a5b293977acb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app.dSYM0034907dddffdf42^634"GenerateDSYMFile build/Debug-iphonesimulator/Sorting.app.dSYM build/Debug-iphonesimulator/Sorting.app/Sorting    cd /Users/maruiduan/github/Algorithm/Sorting    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Sorting -o /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app.dSYM36"A07344E4-0070-4AE6-A881-0A2FF7D78915-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CLd /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Sorting normal i386
+s413955894.136248
+e413955894.542930
+r1
+xLd
+x/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Sorting
+xnormal
+xi386
+d/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/Sorting.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/ViewController.o
+d/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/AppDelegate.o
+d/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Link /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Sorting62"Ld build/Debug-iphonesimulator/Sorting.app/Sorting normal i3865af0223677acb841^dbfd8a3677acb841^---0#0#1#--1343"Ld build/Debug-iphonesimulator/Sorting.app/Sorting normal i386    cd /Users/maruiduan/github/Algorithm/Sorting    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator -F/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator -filelist /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/Sorting.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Objects-normal/i386/Sorting_dependency_info.dat -o /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Sorting36"92F556E0-8261-45B2-A53A-F49F8027A1D7-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CProcessInfoPlistFile /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Info.plist /Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Info.plist
+s413955897.123714
+e413955897.127329
+r1
+xProcessInfoPlistFile
+x/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Info.plist
+x/Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Process /Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Info.plist98"ProcessInfoPlistFile build/Debug-iphonesimulator/Sorting.app/Info.plist Sorting/Sorting-Info.plist80b81f3977acb841^9e99203977acb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Info.plist0000000000000000^856"ProcessInfoPlistFile build/Debug-iphonesimulator/Sorting.app/Info.plist Sorting/Sorting-Info.plist    cd /Users/maruiduan/github/Algorithm/Sorting    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Info.plist -genpkginfo /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/assetcatalog_generated_info.plist -o /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app/Info.plist36"00616981-BEF8-4F11-910F-58E1FFFDDE41-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CProcessPCH /Users/maruiduan/Library/Developer/Xcode/DerivedData/Algorithm-bgvgprqtsoblgbeholztvylqrptk/Index/PrecompiledHeaders/Sorting-Prefix-alndvxbvrnjvpsbvcykgchbnuefi_ast/Sorting-Prefix.pch.pch Sorting/Sorting-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch.pch Sorting/Sorting-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413955892.025438
+e413955893.991305
+r1
+xProcessPCH
+x/var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch.pch
+xSorting/Sorting-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Sorting/Sorting-Prefix.pch290"ProcessPCH /var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch.pch Sorting/Sorting-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36c8083477acb841^b0c6fd3577acb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Prefix.pch0000000000000000^3643"ProcessPCH /var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch.pch Sorting/Sorting-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maruiduan/github/Algorithm/Sorting    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/maruiduan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-generated-files.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-own-target-headers.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-all-target-headers.hmap -iquote /Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/Sorting-project-headers.hmap -I/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/DerivedSources/i386 -I/Users/maruiduan/github/Algorithm/Sorting/build/Sorting.build/Debug-iphonesimulator/Sorting.build/DerivedSources -F/Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch.d -c /Users/maruiduan/github/Algorithm/Sorting/Sorting/Sorting-Prefix.pch -o /var/folders/8m/bt_r_yxd1jqftknf6v2wbjb80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Sorting-Prefix-grkwlxjvavjpqhhbyercnokgdrpw/Sorting-Prefix.pch.pch36"02207B9F-F331-44D9-892E-679D0E1ABC43-
+bC91BB6AD-7B51-4873-96F9-A080DEF601DE
+
+CTouch /Users/maruiduan/github/Algorithm/Sorting/build/Debug-iphonesimulator/Sorting.app
+r0
+
